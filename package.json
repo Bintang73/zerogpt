@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "random-useragent": "^0.5.0",
+    "zerogpt": "^1.0.0"
+  },
+  "name": "zerogpt",
+  "version": "1.0.0",
+  "description": "detect word create by ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/bintang73/zerogpt"
+  },
+  "keywords": [
+    "zerogpt"
+  ],
+  "author": "bintang73",
+  "license": "ISC"
+}
